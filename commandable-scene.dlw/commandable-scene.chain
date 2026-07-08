@@ -4,6 +4,6 @@ slug  : commandable-scene
 seal  : ecabaf0abf7c36b3a9526ce23558cfe06d8ab5867b4cd1c581d6404801ccdbe8
 prev  : cf1b9b79c9f1c69a7b00e493555a7c01218b59ebc1da66685d72f88d0b1be467
 link  : 42bb4e9831d9b3fe864936943b325358cea3ff7fc688b7c76cd768c6b08847dc
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
